@@ -39,6 +39,34 @@ li, a{
   margin-right: 10px;
 }
 
+.first-section{
+  display: flex;
+  flex-direction: row;
+  padding: 30px;
+  background-color: blue;
+}
+.left-container{
+  display: flex;
+  flex-direction: column;
+  flex: auto;
+}
+.image-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex: 0;
+}
+.image-container img{
+  height: auto;
+  width: 350px;
+}
+
+
+
+
+
+
 .footer{
   display: flex;
   flex-direction: column;
@@ -51,8 +79,8 @@ li, a{
 }
 
 .first-name{
-  color: red;
+  color: #DF1F2D;
 }
 .last-name{
-  color: blue;
+  color: #2B3784;
 }

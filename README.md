@@ -4,7 +4,7 @@ This project is a landing page designed to showcase my skills in front-end devel
 
 ## Project Description
 
-The landing page features a responsive layout built using HTML, CSS, and flexbox. The design prioritizes a modern and visually appealing aesthetic while maintaining a clean and professional appearance. Through this project, I aim to demonstrate my proficiency in utilizing flexbox for creating flexible and responsive page layouts, as well as my attention to detail in styling and presentation.
+The landing page is themed around Spiderman, presenting a front page for his portfolio. It features a responsive layout built using HTML, CSS, and flexbox. The design prioritizes a modern and visually appealing aesthetic while maintaining a clean and professional appearance. Through this project, I aim to demonstrate my proficiency in utilizing flexbox for creating flexible and responsive page layouts, as well as my attention to detail in styling and presentation.
 
 ## Website Link
 The landing page is deployed at: [will be updated with a website link]
